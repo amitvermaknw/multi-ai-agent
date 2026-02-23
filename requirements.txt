@@ -1,0 +1,8 @@
+crewai==1.9.3
+dotenv==0.9.9
+httptools==0.7.1
+ipykernel==7.2.0
+pip==24.3.1
+uvloop==0.22.1
+watchfiles==1.1.1
+websockets==16.0
